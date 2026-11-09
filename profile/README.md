@@ -14,7 +14,7 @@
 
 MagisterialModels develops open-source tools and practices for software engineering with AI agents.
 
-Our primary focus is **MightyModels**: a project centered on the challenge of keeping AI-assisted development organized, context-aware, and accountable as work grows beyond a single conversation or agent.
+Our primary focus is **MagisterialModels**: a project centered on the challenge of keeping AI-assisted development organized, context-aware, and accountable as work grows beyond a single conversation or agent.
 
 We believe useful agentic development needs more than capable models. It needs understandable responsibilities, deliberate handoffs, durable records, meaningful review, and clear human authority.
 
@@ -27,9 +27,9 @@ We believe useful agentic development needs more than capable models. It needs u
 - **Verifiable results.** Treat testing, review, and recorded evidence as part of completing a task.
 - **Practical open source.** Build tools that developers can inspect, adapt, and improve together.
 
-## MightyModels
+## MagisterialModels
 
-**MightyModels is our flagship effort.** Its goal is to make AI-assisted engineering more disciplined: clarify work before acting, divide it into manageable units, keep track of what happened, and bring results back for review.
+**MagisterialModels is our flagship effort.** Its goal is to make AI-assisted engineering more disciplined: clarify work before acting, divide it into manageable units, keep track of what happened, and bring results back for review.
 
 We are interested in the full lifecycle of agent-assisted development—from investigation and planning to implementation, verification, and handoff—without surrendering control of the process to automation.
 
